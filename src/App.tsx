@@ -1,4 +1,3 @@
-
 import './App.css';
 import HeroImageComponent from './components/HeroImage/HeroImage';
 import AboutMeComponent from './components/AboutMe/AboutMe'; // Make sure to create this component
